@@ -69,10 +69,21 @@ Log in as Jane to work on the ticket to completion.  Jane can sign the ticket to
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2025-01-13 153309](https://github.com/user-attachments/assets/b49fd9de-61b3-40b5-a939-bb4b8c6f1340)
+
+![Screenshot 2025-01-13 153508](https://github.com/user-attachments/assets/14dc124d-58f2-4de1-9689-41899ae5504f)
+
+![Screenshot 2025-01-13 153554](https://github.com/user-attachments/assets/a697995d-ce49-4c80-9571-dec3cf5a7900)
+
+![Screenshot 2025-01-13 153640](https://github.com/user-attachments/assets/d0a9b7bc-0591-4433-af80-a8c982fca245)
+
+![Screenshot 2025-01-13 154524](https://github.com/user-attachments/assets/089620ae-0e87-4f72-bd58-7555f53fd5be)
+
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will change the status from open to resolve and close the ticket.
 </p>
 <br />
 
