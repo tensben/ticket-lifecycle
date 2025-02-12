@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -88,46 +83,83 @@ Next, we will change the status from open to resolve and close the ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2025-01-13 154818](https://github.com/user-attachments/assets/516a150b-95a9-4784-a5a1-1637590c2db9)
+
+![Screenshot 2025-01-13 154831](https://github.com/user-attachments/assets/30f8bb09-8b18-4dfe-ac9c-05e2763f7c34)
+
+![Screenshot 2025-01-13 154853](https://github.com/user-attachments/assets/71277b3b-a7cb-4f2a-b6f7-5c4f9b41e2f8)
+
+![Screenshot 2025-01-13 155153](https://github.com/user-attachments/assets/c4d64555-b897-40a3-a479-7dcb652067c5)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ticket # 2 
+
+This next ticket is from Ken, an accountant.  The issue is that the accounting department needs Adobe to be upgraded, but it's broken.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2025-01-13 142759](https://github.com/user-attachments/assets/3dcef343-5745-48eb-9214-4651826f0d35)
+
+![Screenshot 2025-01-13 142851](https://github.com/user-attachments/assets/cc2e6d6f-534c-4373-a3cf-6ebc18da3216)
+
+![Screenshot 2025-01-13 144135](https://github.com/user-attachments/assets/96061d3a-ce8c-4654-9658-37fbe83d7d78)
+
+![Screenshot 2025-01-13 144237](https://github.com/user-attachments/assets/37f74ff1-26c9-4eed-b5f3-092158465259)
+
+![Screenshot 2025-01-13 144258](https://github.com/user-attachments/assets/0b25a00f-6d9d-493a-8a66-d16c2132ab91)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in as Agent John and observe the ticket’s properties. Set the SLA to Sev-C. John is assigned the ticket. We will tell the end user to try restarting the computer to see if that fixes the issue. Here is how the issue is resolved. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2025-01-13 144558](https://github.com/user-attachments/assets/08525274-c3ee-465e-90e8-2bf0a992b8f8)
+
+![Screenshot 2025-01-13 144836](https://github.com/user-attachments/assets/813b1cc1-8aac-4b3f-b6bd-708ef2186698)
+
+![Screenshot 2025-01-13 145214](https://github.com/user-attachments/assets/8f85ce6c-c1a5-495f-aaae-e4eea7344566)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ticket # 3
+
+This ticket is from the CFO. Their laptop will no longer turn. Use Karen as the end user. The Help topic is: Report a Problem? Personal Computer Issues.  Create ticket.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2025-01-13 145639](https://github.com/user-attachments/assets/416d48fa-c2a5-4ce9-9c0b-d887f49059bd)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As Agent John, observe the ticket’s properties. Set the Priority to Emergency, the SLA to Sev-B, and the support to Support. I assigned the ticket to John. In this scenario, we would contact the end user, Karen, to meet with the CFO to examine their laptop for on-site diagnostics. Here is how the issue is resolved.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+  
+![Screenshot 2025-01-13 145932](https://github.com/user-attachments/assets/1f1e68f8-76a1-42a9-8b98-f231afb423f8)
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screenshot 2025-01-13 150043](https://github.com/user-attachments/assets/057ef0b0-086e-47d4-80bb-710bd53274c2)
+
+![Screenshot 2025-01-13 150650](https://github.com/user-attachments/assets/3d1f68c5-4099-4233-a240-5f1857447c53)
+
+![Screenshot 2025-01-13 150708](https://github.com/user-attachments/assets/79fcf08f-ccb1-42c5-b9d6-ff092f4b78cc)
+
+![Screenshot 2025-01-13 150912](https://github.com/user-attachments/assets/d7ce78a9-0644-43a6-926a-0350d1479074)
+
+![Screenshot 2025-01-13 151035](https://github.com/user-attachments/assets/79b87847-8e8e-4310-9885-fe73cfbfb38c)
+
 </p>
-<br />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
